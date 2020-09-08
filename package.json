@@ -1,0 +1,21 @@
+{
+  "name": "hackerrank",
+  "version": "1.0.0",
+  "description": "Practices in the HackerRank platform",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolas9519/HackerRank-practices.git"
+  },
+  "keywords": [],
+  "author": "Nicolas Patiño Cañas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolas9519/HackerRank-practices/issues"
+  },
+  "homepage": "https://github.com/nicolas9519/HackerRank-practices#readme",
+  "devDependencies": {
+    "@types/node": "^14.6.4"
+  }
+}
